@@ -1,0 +1,7 @@
+-squashfs-sysupgrade.bin
+-squashfs.bin
+-vmlinux.bin
+-vmlinux.elf
+-vmlinux.gz
+-vmlinux.lzma
+-root.squashfs
